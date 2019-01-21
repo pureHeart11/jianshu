@@ -1,2 +1,2 @@
-# jianshu
+# 简书
 react-jianshu
